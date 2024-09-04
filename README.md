@@ -18,7 +18,7 @@ Eu sou Marcelo, estou cursando ensino superior em DevOps e também matriculado n
 
 
 ### Linguagens utilizadas 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSilveira1709E&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSilveira1709&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
