@@ -1,6 +1,6 @@
 ## Olá 👋
 
-###### Sobre o Marcelo
+###### Sobre
 
 Eu sou Marcelo, estou cursando ensino superior em DevOps e também matriculado no curso de Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas e Tecnologia. Tenho fascínio pelo estudo e pela aprendizagem de novas tecnologias. Busco oportunidades de crescimento, tanto profissional quanto pessoal, que me permitam desenvolver novas habilidades e participar de projetos desafiadores."
 
