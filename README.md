@@ -11,6 +11,16 @@ Eu sou Marcelo, estou cursando ensino superior em DevOps e também matriculado n
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloSilveira1709&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSilveira1709/Efood&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Linguagens utilizadas 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSilveira1709E&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
