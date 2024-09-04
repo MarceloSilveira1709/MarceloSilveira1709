@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**MarceloSilveira1709/MarceloSilveira1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Sobre o Marcelo
 
-Here are some ideas to get you started:
+Eu sou Marcelo, estou cursando ensino superior em DevOps e também matriculado no curso de Desenvolvedor Full Stack Java na EBAC - Escola Britânica de Artes Criativas e Tecnologia. Tenho fascínio pelo estudo e pela aprendizagem de novas tecnologias. Busco oportunidades de crescimento, tanto profissional quanto pessoal, que me permitam desenvolver novas habilidades e participar de projetos desafiadores."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.linkedin.com/in/marcelosilveira-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloSilveira1709&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
