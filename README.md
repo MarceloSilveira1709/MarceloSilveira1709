@@ -13,7 +13,7 @@ Eu sou Marcelo, estou cursando ensino superior em DevOps e também matriculado n
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSilveira1709&repo=Efood&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloSilveira1709&repo=Efood&theme=radical)]
 
 
 
